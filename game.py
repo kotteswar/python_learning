@@ -25,4 +25,6 @@ elif(user1 == "rock" and user2 == "paper"):
 else:
     print("invalid input")
     
-games()    
+games() 
+
+print("Game Starts:")   
